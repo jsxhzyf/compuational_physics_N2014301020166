@@ -9,3 +9,6 @@
 - install python2.7 operating environment
 - register a github account 
 - write your first README.md with markdown 
+ 
+- [x] [Second Assignment](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_1)
+- write a program to show your own name with stars on the screen
