@@ -22,3 +22,5 @@ print '''
     #           #     #         #  #         # 
 ------------------------------------------------'''
 ```
+![picture](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.PNG)
+
