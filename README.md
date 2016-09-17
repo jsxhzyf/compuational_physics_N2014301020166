@@ -21,5 +21,5 @@ print '''
     #          # #     #       #   #       # # 
     #           #     #         #  #         # 
 ------------------------------------------------'''
-![cmd-markdown-logo](https://cloud.githubusercontent.com/assets/22026424/18606330/90d85142-7cdf-11e6-9aa8-5aa1e46a5950.PNG)
 ```
+![如图](https://cloud.githubusercontent.com/assets/22026424/18606330/90d85142-7cdf-11e6-9aa8-5aa1e46a5950.PNG)
