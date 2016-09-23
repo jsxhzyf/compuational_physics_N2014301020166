@@ -10,3 +10,6 @@
 - [x] [Second Assignment](https://github.com/jsxhzyf/compuational_physics_N2014301020166/tree/master/Assignment_2)
 
 
+- [x] [Third Assignment]( https://github.com/jsxhzyf/compuational_physics_N2014301020166/tree/master/Assignment_3)
+
+
