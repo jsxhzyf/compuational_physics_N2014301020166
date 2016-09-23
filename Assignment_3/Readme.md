@@ -17,6 +17,7 @@
     3. 再通过一个循环，输出阵列的每一行即可得到一条静止的正弦曲线；
     4. 若再通过一个循环，结合清空屏幕的命令`i = os.system('cls')`和延迟命令`time.sleep(sometime)`即可输出动态的曲线。
     * [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.py)  (运行程序时注意把python的命令窗口调大一点，不然可能显示不全)
+    ![code](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.PNG) 
     * 结果如图，成功在屏幕上输出一条"正弦曲线"(至少看起来有点像)，并且，该曲线可以随着时间推移逐渐向左移动(这里只把其中一"帧"截图放了上来)。该图形模拟了一束向-x方向传输的正弦波。
     ![效果图](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/%E6%95%88%E6%9E%9C.PNG)  
     * 值的改进的地方：该图形的点过于分散，不够密，因为每个字符本来就有那么大，所以暂时没想到改善的方法。
