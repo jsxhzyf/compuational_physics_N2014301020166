@@ -12,7 +12,7 @@
 ## 正文  
 L1
 * We finally make it moving,but somehow a problem arises with the command"i=os.system('cls')".Here we can not clear the command in the shell and I have tried many times but it doesn't work fine on my mac.So laterly,I find another way as ''sys.stderr.write("\x1b[2J\x1b[H")'' 
-* [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.py) 
+* [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code%20L1.py) 
 
 L2
 * 在屏幕上用字符阵列画出自己想画出的东西，并可以让"图形"动起来。其基本原理和显示字母是类似的，将图形以"像素点"的形式储存于字符阵列即可。另外，根据老师的提示，使用指令`import os`，`i = os.system('cls')`即可清空屏幕上已经显示的"图形"，再输出另外的"帧",即可让图形动起来。再者，使用指令`import time`，`time.sleep(sometime)`即可让计算机输出每帧的间隔拉长，避免动画太快。其基本步骤是：  
