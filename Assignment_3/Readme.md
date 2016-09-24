@@ -10,7 +10,11 @@
 * 利用字符串阵列显示字符功能可以广泛应用于各种显示器，因而具有广泛的前景。本次作业即利用此原理显示一些目标字母或图形，从而为实现更复杂的功能打下基础。
 
 ## 正文  
+L1
+* We finally make it moving,but somehow a problem arises with the command"i=os.system('cls')".Here we can not clear the command in the shell and I have tried many times but it doesn't work fine on my mac.So laterly,I find another way as ''sys.stderr.write("\x1b[2J\x1b[H")'' 
+* [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.py) 
 
+L2
 * 在屏幕上用字符阵列画出自己想画出的东西，并可以让"图形"动起来。其基本原理和显示字母是类似的，将图形以"像素点"的形式储存于字符阵列即可。另外，根据老师的提示，使用指令`import os`，`i = os.system('cls')`即可清空屏幕上已经显示的"图形"，再输出另外的"帧",即可让图形动起来。再者，使用指令`import time`，`time.sleep(sometime)`即可让计算机输出每帧的间隔拉长，避免动画太快。其基本步骤是：  
     1. 制造一个空的矩形阵列，每个阵列元都是空格(此时若直接输出，得到的将是一个空阵列)；
     2. 利用一个循环，将阵列中类似正弦曲线的点位替换成字符“#”；
