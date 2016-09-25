@@ -11,16 +11,16 @@
 
 ## 正文  
 L1
-* We finally make it moving,but somehow a problem arises with the command"i=os.system('cls')".Here we can not clear the command in the shell and I have tried many times but it doesn't work fine on my mac.So laterly,I find another way as ''sys.stderr.write("\x1b[2J\x1b[H")'' 
-* [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code%20L1.py) 
-
+* 利用一个循环语句，每次在图像前加一个空格，由此形成一个移动的效果
+* [代码在此](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code%20L1.py) 
+    ![效果图]()
 L2
 * 在屏幕上用字符阵列画出自己想画出的东西，并可以让"图形"动起来。其基本原理和显示字母是类似的，将图形以"像素点"的形式储存于字符阵列即可。另外，根据老师的提示，使用指令`import os`，`i = os.system('cls')`即可清空屏幕上已经显示的"图形"，再输出另外的"帧",即可让图形动起来。再者，使用指令`import time`，`time.sleep(sometime)`即可让计算机输出每帧的间隔拉长，避免动画太快。其基本步骤是：  
     1. 制造一个空的矩形阵列，每个阵列元都是空格(此时若直接输出，得到的将是一个空阵列)；
     2. 利用一个循环，将阵列中类似正弦曲线的点位替换成字符“#”；
     3. 再通过一个循环，输出阵列的每一行即可得到一条静止的正弦曲线；
     4. 若再通过一个循环，结合清空屏幕的命令`i = os.system('cls')`和延迟命令`time.sleep(sometime)`即可输出动态的曲线。
-    * [代码此在](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.py)  (运行程序时注意把python的命令窗口调大一点，不然可能显示不全)
+    * [代码在此](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.py)  (运行程序时注意把python的命令窗口调大一点，不然可能显示不全)
     ![code](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code.PNG) 
     * 结果如图，成功在屏幕上输出一条"正弦曲线"(至少看起来有点像)，并且，该曲线可以随着时间推移逐渐向左移动(这里只把其中一"帧"截图放了上来)。该图形模拟了一束向-x方向传输的正弦波。
     ![效果图](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/%E6%95%88%E6%9E%9C.PNG)  
