@@ -13,6 +13,7 @@
 L1
 * 利用一个循环语句，每次在图像前加一个空格，由此形成一个移动的效果
 * [代码在此](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/code%20L1.py) 
+* 效果如图所示
     ![效果图](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_3/L1.PNG)
     
     
