@@ -12,7 +12,9 @@ Consider again a decay problem with two types of nuclei A and B, but now suppose
 
 ##Background
 According to the Problem 1.5, we know the corresponding rate equation are
+
 ![picture 1](https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_4/picture1.PNG)
+
 where for simplicity we have assumed thet the two types of decay are characterized by the same time constant, .
 
 ##Main body
