@@ -14,7 +14,7 @@
 
 - [x] [Assignment 4]( https://github.com/jsxhzyf/compuational_physics_N2014301020166/blob/master/Assignment_4/Readme.md)
 
-- [x] [Assignment 5]( https://www.zybuluo.com/mdeditor#533510-full-reader)
+- [x] [Assignment 5](https://www.zybuluo.com/jsxhzyf/note/533510)
 
-- [x] [Assignment 6]
+- [x] [Assignment 6](https://www.zybuluo.com/jsxhzyf/note/542508)
 
