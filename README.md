@@ -16,5 +16,5 @@
 
 - [x] [Assignment 5]( https://www.zybuluo.com/mdeditor#533510-full-reader)
 
-
+- [x] [Assignment 6]
 
