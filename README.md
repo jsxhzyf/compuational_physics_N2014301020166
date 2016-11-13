@@ -20,4 +20,4 @@
 
 - [x] [Assignment 7](https://www.zybuluo.com/jsxhzyf/note/557741)
 
-
+- [x] [Assignment 8](https://www.zybuluo.com/jsxhzyf/note/565678)
